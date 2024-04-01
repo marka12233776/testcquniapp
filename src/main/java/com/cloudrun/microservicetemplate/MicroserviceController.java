@@ -40,6 +40,6 @@ public class MicroserviceController {
     // Use logger with log correlation
     // https://cloud.google.com/run/docs/logging#correlate-logs
     logger.info("Structured logging example.");
-    return "Hello World!";
+    return "Hello CQUni,  Updated by Mark on 1.4.24!";
   }
 }
